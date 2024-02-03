@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Classic White Shirt",
+    "description": "A crisp, white shirt, perfect for formal or casual wear.",
+    "price": 50,
+    "image": "/images/white-shirt.jpg",
+    "type": "Shirts",
+    "category": "Female",
+    "sizeQuantities": [
+      {"size": "M", "quantity": 12},
+      {"size": "L", "quantity": 8}
+    ]
+  },
+  {
+    "name": "Slim Fit Jeans",
+    "description": "Stylish slim fit jeans for a modern look.",
+    "price": 80,
+    "image": "/images/slim-fit-jeans.jpg",
+    "type": "Jeans",
+    "category": "Male",
+    "sizeQuantities": [
+      {"size": "M", "quantity": 15},
+      {"size": "L", "quantity": 10},
+      {"size": "XL", "quantity": 7}
+    ]
+  },
+  {
+    "name": "Graphic Tee",
+    "description": "A fun and vibrant graphic t-shirt for casual outings.",
+    "price": 35,
+    "image": "/images/graphic-tee.jpg",
+    "type": "Shirts",
+    "category": "Kids",
+    "sizeQuantities": [
+      {"size": "S", "quantity": 20},
+      {"size": "M", "quantity": 25},
+      {"size": "L", "quantity": 15}
+    ]
+  },
+  {
+    "name": "Denim Jacket",
+    "description": "A classic denim jacket, perfect for layering.",
+    "price": 110,
+    "image": "/images/denim-jacket.jpg",
+    "type": "Jackets",
+    "category": "Female",
+    "sizeQuantities": [
+      {"size": "XS", "quantity": 10},
+      {"size": "S", "quantity": 15},
+      {"size": "M", "quantity": 20}
+    ]
+  },
+  {
+    "name": "Biker Jacket",
+    "description": "A classic biker jacket, perfect for layering.",
+    "price": 110,
+    "image": "/images/biker-jacket.jpg",
+    "type": "Jackets",
+    "category": "Male",
+    "sizeQuantities": [
+      {"size": "XS", "quantity": 10},
+      {"size": "S", "quantity": 15},
+      {"size": "M", "quantity": 20}
+    ]
+  },
+  {
+    "name": "Chino Pants",
+    "description": "Versatile chino pants suitable for both formal and casual settings.",
+    "price": 70,
+    "image": "/images/chino-pants.jpg",
+    "type": "Jeans",
+    "category": "Male",
+    "sizeQuantities": [
+      {"size": "M", "quantity": 17},
+      {"size": "L", "quantity": 13},
+      {"size": "XL", "quantity": 10}
+    ]
+  }
+]

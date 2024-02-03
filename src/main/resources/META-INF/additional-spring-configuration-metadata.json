@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "application.security.jwt.activate-user.expiration",
+      "type": "java.lang.String",
+      "description": "Description for application.security.jwt.activate-user.expiration."
+    },
+    {
+      "name": "application.security.jwt.reset-password.expiration",
+      "type": "java.lang.String",
+      "description": "Description for application.security.jwt.reset-password.expiration."
+    }
+  ]
+}
