@@ -16,7 +16,7 @@ import java.util.Collections;
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface UserMapper {
     UserModel toModel(AuthRegisterRequestDto authRegisterRequestDto);
-//
+
     @Mapping(target = "role", ignore = true)
     UserModel toModel(UserCreationDto userCreationDto);
 
